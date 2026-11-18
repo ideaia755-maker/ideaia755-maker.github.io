@@ -1,0 +1,25 @@
+{
+  "headline": "AI ShenData TV",
+  "menu": [
+    {
+      "id": "chat",
+      "label": "ИИ-чат",
+      "data": "https://ideaia755-maker.github.io/msx/chat.json"
+    },
+    {
+      "id": "voice",
+      "label": "Голосовой помощник",
+      "data": "https://ideaia755-maker.github.io/msx/voice.json"
+    },
+    {
+      "id": "library",
+      "label": "Медиатека",
+      "data": "https://ideaia755-maker.github.io/msx/library.json"
+    },
+    {
+      "id": "settings",
+      "label": "Настройки",
+      "data": "https://ideaia755-maker.github.io/msx/settings.json"
+    }
+  ]
+}
